@@ -1,0 +1,63 @@
+.logo{
+	width: 100px;
+}
+
+.nav-item{
+	font-size: 20px;
+	font-family: 'Ghotam Medium';
+	color: black bold;
+}
+
+footer{
+	
+	background-color: #000000;
+	padding: 100px 0;
+	text-align: center;
+}
+ footer .logo-footer{
+	 width: 100px;
+	  
+ }
+
+h1,h2{
+	font-family: 'Ghotam Medium';
+}
+
+.img-fluid{
+    width: 640px;
+    height: auto;
+    margin: 20px auto;
+    border: 5px solid #fff;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px rgba(50,50,50 0.5);
+    
+}
+
+p{
+	font-family: mazdatype,helvetica,arial,sans-serif;
+}
+
+.c{
+	max-width: 100%;height: auto;
+}
+
+.listas{
+text-align:center;
+background-color:transparent;
+}
+
+.list{
+text-align: left;
+display:inline-block;
+color: white;
+font-family:mazdatype,helvetica,arial,sans-serif;
+}
+
+.r{
+	text-align: center;
+}
+
+.cy{
+	font-family: Star Wars;
+	font-size: 500%;
+}
